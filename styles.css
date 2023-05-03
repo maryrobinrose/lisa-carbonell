@@ -40,10 +40,17 @@ h1 {
     margin-left: 100px;
     margin-bottom: 500px;
     opacity: 0;
-    animation: fadeIn 1s ease-in-out forwards;
-}
+    transition: opacity 1s ease-in-out, transform 1s ease-in-out;
+    transform: translate3d(0, 10%, 0);
+ }
 
-@keyframes fadeIn {
+ .info.visible {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+ }
+ 
+
+/* @keyframes fadeIn {
     from {
        opacity: 0;
        transform: translate3d(0, 10%, 0);
@@ -53,7 +60,7 @@ h1 {
        opacity: 1;
        transform: translate3d(0, 0, 0);
     }
- }
+ } */
 
 
 .consultation {
