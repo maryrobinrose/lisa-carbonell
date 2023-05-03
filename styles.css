@@ -45,19 +45,19 @@ h1 {
 .consultation {
     width: 800px;
     margin-left: 100px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .light {
     font-weight: 200;
 }
 
-/* .container {
-    height: 1000px;
+.container {
+    width: 800px;
     overflow-y: scroll;
     scroll-snap-type: y mandatory;
 }
 
 .container section {
     scroll-snap-align: start;
-} */
+}
