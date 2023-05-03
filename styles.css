@@ -20,6 +20,11 @@ h1 {
     margin-top: 100px !important;
 }
 
+.established {
+    display: flex; 
+    align-items: center;
+}
+
 .logo {
     width: 100px;
 }
