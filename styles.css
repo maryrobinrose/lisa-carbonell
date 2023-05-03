@@ -3,7 +3,15 @@
     src: url("fonts/Cinzel-VariableFont_wght.ttf") format("ttf");
     font-weight: normal;
     font-style: normal;
-  }
+}
+
+@font-face {
+    font-family: "Oswald";
+    src: url("fonts/Oswald-VariableFont_wght.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
 
 
 body {
@@ -11,11 +19,12 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    transform: scaleX(-1);
+    color: #F7F4EB;
+    font-family: 'Oswald';
 }
 
 h1 {
-    font-family: "Cinzel";
+    font-family: 'Cinzel';
     text-transform: uppercase;
 }
 
