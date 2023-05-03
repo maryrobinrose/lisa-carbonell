@@ -11,6 +11,8 @@ body {
     background-size: cover;
 
     color: #F7F4EB !important;
+
+    overflow: overlay;
 }
 
 .main-title {
@@ -77,9 +79,9 @@ h1 {
     width: 10px;
  }
  
- ::-webkit-scrollbar-track {
+ /* ::-webkit-scrollbar-track {
     display: none;
- }
+ } */
  
  ::-webkit-scrollbar-thumb {
     background-color: #343641;
