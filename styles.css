@@ -68,20 +68,20 @@ h1 {
 
 .container {
     width: 900px;
-    /* scroll-snap-type: y mandatory; */
+    scroll-snap-type: y mandatory;
 }
 
-/* .container section {
+.container section {
     scroll-snap-align: start;
-} */
+}
 
 ::-webkit-scrollbar {
     width: 10px;
  }
  
- /* ::-webkit-scrollbar-track {
+ ::-webkit-scrollbar-track {
     display: none;
- } */
+ }
  
  ::-webkit-scrollbar-thumb {
     background-color: #343641;
