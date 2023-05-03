@@ -54,10 +54,9 @@ h1 {
 
 .container {
     width: 800px;
-    overflow-y: scroll;
-    scroll-snap-type: y mandatory;
+    /* scroll-snap-type: y mandatory; */
 }
 
-.container section {
+/* .container section {
     scroll-snap-align: start;
-}
+} */
