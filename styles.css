@@ -1,6 +1,10 @@
 body {
-    background-image: 'images/woodwork.jpg';
+    background-image: url('images/woodwork.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+}
+
+.logo {
+    width: 100px;
 }
