@@ -72,3 +72,23 @@ h1 {
 /* .container section {
     scroll-snap-align: start;
 } */
+
+/* Customize the scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+ }
+ 
+ ::-webkit-scrollbar-track {
+    background-color: transparent;
+ }
+ 
+ ::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 4px;
+    border: 2px solid transparent;
+ }
+ 
+ ::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+ }
+ 
