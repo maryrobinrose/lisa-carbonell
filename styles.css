@@ -17,15 +17,19 @@ h1 {
     font-family: "Cinzel";
     font-size: 72px !important;
     text-transform: uppercase;
-    margin-top: 200px !important;
+    margin-top: 300px !important;
 }
 
 .established {
     display: flex; 
     align-items: center;
-    margin-left: 60px;
+    margin-left: 100px;
 }
 
 .logo {
     width: 100px;
+}
+
+.info {
+    width: 500px;
 }
