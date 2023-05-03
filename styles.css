@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Cinzel";
-    src: url("fonts/Cinzel-VariableFont_wght.ttf") format("ttf");
+    src: url("fonts/Cinzel/Cinzel-VariableFont_wght.ttf") format("ttf");
     font-weight: normal;
     font-style: normal;
 }
@@ -15,17 +15,18 @@
 
 
 body {
-    background-image: url('images/woodwork.jpg');
+    background-image: url("images/woodwork.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 
     color: #F7F4EB !important;
-    font-family: 'Oswald' !important;
+    font-family: "Oswald" !important;
 }
 
 h1 {
-    font-family: 'Cinzel';
+    font-family: "Cinzel";
+    font-weight: 400;
     text-transform: uppercase;
 }
 
