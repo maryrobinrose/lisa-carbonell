@@ -83,12 +83,12 @@ h1 {
  }
  
  ::-webkit-scrollbar-thumb {
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: red;
     border-radius: 4px;
     border: 2px solid transparent;
  }
  
  ::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: blue;
  }
  
