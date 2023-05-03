@@ -44,12 +44,12 @@ h1 {
     width: 800px;
 }
 
-.scroller {
+.container {
     height: 1000px;
     overflow-y: scroll;
     scroll-snap-type: y mandatory;
 }
 
-.scroller section {
+.container section {
     scroll-snap-align: start;
 }
