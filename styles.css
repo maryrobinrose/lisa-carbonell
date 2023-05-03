@@ -73,7 +73,6 @@ h1 {
     scroll-snap-align: start;
 } */
 
-/* Customize the scrollbar */
 ::-webkit-scrollbar {
     width: 10px;
  }
@@ -84,8 +83,7 @@ h1 {
  
  ::-webkit-scrollbar-thumb {
     background-color: red;
-    border-radius: 4px;
-    border: 2px solid transparent;
+    border-radius: 10px;
  }
  
  ::-webkit-scrollbar-thumb:hover {
