@@ -47,6 +47,10 @@ h1 {
     margin-left: 100px;
 }
 
+.light {
+    font-weight: 200;
+}
+
 /* .container {
     height: 1000px;
     overflow-y: scroll;
