@@ -3,11 +3,6 @@
     src: url("fonts/Cinzel/static/Cinzel-Regular.ttf") format("ttf");
 }
 
-@font-face {
-    font-family: "Oswald";
-    src: url("fonts/Oswald/static/Oswald-Regular.ttf") format("ttf");
-}
-
 
 body {
     background-image: url("images/woodwork.jpg");
@@ -22,11 +17,6 @@ h1 {
     font-family: "Cinzel";
     font-size: 86px !important;
     text-transform: uppercase;
-}
-
-h2 {
-    font-family: "Oswald" !important;
-    font-size: 36px;
 }
 
 .logo {
