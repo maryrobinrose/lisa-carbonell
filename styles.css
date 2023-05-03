@@ -53,7 +53,7 @@ h1 {
 }
 
 .container {
-    width: 800px;
+    width: 1000px;
     /* scroll-snap-type: y mandatory; */
 }
 
