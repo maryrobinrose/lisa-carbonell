@@ -19,8 +19,9 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    color: #F7F4EB;
-    font-family: 'Oswald';
+
+    color: #F7F4EB !important;
+    font-family: 'Oswald' !important;
 }
 
 h1 {
