@@ -1,7 +1,7 @@
 @font-face {
     font-family: "Cinzel";
     src: url("fonts/Cinzel/Cinzel-VariableFont_wght.ttf") format("ttf");
-    font-weight: 200;
+    font-weight: 400;
     font-style: normal;
 }
 
@@ -26,7 +26,7 @@ body {
 h1 {
     font-family: "Cinzel";
     font-size: 86px !important;
-    font-weight: 200 !important;
+    font-weight: 400 !important;
     text-transform: uppercase;
 }
 
