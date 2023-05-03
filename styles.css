@@ -11,6 +11,8 @@ body {
     background-size: cover;
 
     color: #F7F4EB !important;
+
+    overflow: overlay;
 }
 
 .main-title {
