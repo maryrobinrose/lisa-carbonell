@@ -1,9 +1,9 @@
-@font-face {
+/* @font-face {
     font-family: "Cinzel";
     src: url("fonts/Cinzel/Cinzel-VariableFont_wght.ttf") format("ttf");
     font-weight: normal;
     font-style: normal;
-}
+} */
 
 @font-face {
     font-family: "Oswald";
@@ -20,8 +20,8 @@ body {
     background-attachment: fixed;
     background-size: cover;
 
-    color: #F7F4EB !important;
-    font-family: "Oswald" !important;
+    color: #F7F4EB;
+    font-family: "Oswald";
 }
 
 /* h1 {
