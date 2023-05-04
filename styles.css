@@ -3,6 +3,11 @@
     src: url("fonts/Cinzel/static/Cinzel-Regular.ttf") format("ttf");
 }
 
+@font-face {
+    font-family: "Oswald";
+    src: url("fonts/Oswald/static/Oswald-Medium.ttf") format("ttf");
+}
+
 
 body {
     background-image: url("images/woodwork.jpg");
@@ -12,7 +17,8 @@ body {
     background-color: #1F2123;
     color: #F7F4EB !important;
     overflow: overlay;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "Oswald";
+    font-size: 36px;
 }
 
 .main-title {
