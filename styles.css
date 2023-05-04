@@ -48,11 +48,10 @@ h1 {
  }
  
 
-
 .consultation {
     width: 800px;
     margin-left: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 
 .light {
@@ -70,6 +69,15 @@ h1 {
 
 .link {
     text-decoration: none;
+}
+
+.email-link {
+    color: #F7F4EB !important;
+}
+
+.footer-link {
+    color: #F7F4EB !important;
+    font-size: 16px;
 }
 
 ::-webkit-scrollbar {
