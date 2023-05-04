@@ -4,8 +4,8 @@
 }
 
 @font-face {
-    font-family: "Oswald";
-    src: url("fonts/Oswald/static/Oswald-Medium.ttf") format("ttf");
+    font-family: "PT_Sans_Narrow";
+    src: url("fonts/PT_Sans_Narrow/PTSansNarrow-Regular.ttf") format("ttf");
 }
 
 
@@ -17,7 +17,7 @@ body {
     background-color: #1F2123;
     color: #F7F4EB !important;
     overflow: overlay;
-    font-family: "Oswald";
+    font-family: "PT_Sans_Narrow";
     font-size: 36px;
 }
 
