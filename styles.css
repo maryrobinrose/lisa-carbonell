@@ -68,6 +68,10 @@ h1 {
     scroll-snap-align: start;
 }
 
+.link {
+    text-decoration: none;
+}
+
 ::-webkit-scrollbar {
     width: 10px;
  }
