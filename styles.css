@@ -36,6 +36,7 @@ h1 {
 .established {
     display: flex; 
     align-items: center;
+    padding-left: 150px;
     font-weight: 200;
 }
 
