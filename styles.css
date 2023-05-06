@@ -133,16 +133,16 @@ h1 {
     }
 
     .established {
-        padding-left: 0;
+        padding-left: 10px;
     }
 
     .info {
-        width: 100%;
+        width: 75%;
         margin-bottom: 500px;
     }
 
     .consultation {
-        width: 100%;
+        width: 75%;
         margin-bottom: 100px;
     }
 
