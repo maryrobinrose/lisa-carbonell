@@ -120,3 +120,65 @@ h1 {
     background-color: #343641;
  }
  
+
+/* For small screens */
+@media screen and (max-width: 768px) {
+    .main-title {
+        margin-top: 200px;
+        margin-left: 50px;
+        margin-bottom: 300px;
+    }
+
+    h1 {
+        font-size: 48px !important;
+    }
+
+    .established {
+        padding-left: 50px;
+    }
+
+    .info {
+        width: 100%;
+        margin: 0 10px;
+    }
+
+    .consultation {
+        width: 100%;
+        margin: 0 10px;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .footer {
+        position: relative;
+    }
+}
+
+/* For medium screens */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .main-title {
+        margin-top: 250px;
+        margin-left: 75px;
+        margin-bottom: 400px;
+    }
+
+    h1 {
+        font-size: 58px !important;
+    }
+
+    .established {
+        padding-left: 100px;
+    }
+
+    .info {
+        width: 90%;
+        margin: 0 20px;
+    }
+
+    .consultation {
+        width: 90%;
+        margin: 0;
+    }
+}
