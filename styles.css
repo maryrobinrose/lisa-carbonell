@@ -123,12 +123,12 @@ h1 {
 
 @media screen and (max-width: 768px) {
     .main-title {
-        margin-top: 200px;
-        margin-bottom: 400px;
+        margin-top: 300px;
+        margin-bottom: 500px;
     }
 
     h1 {
-        font-size: 48px !important;
+        font-size: 64px !important;
     }
 
     .established {
@@ -136,12 +136,12 @@ h1 {
     }
 
     .info {
-        width: 100%;
+        width: 80%;
         margin-bottom: 400px;
     }
 
     .consultation {
-        width: 100%;
+        width: 80%;
         margin-bottom: 100px;
     }
 
@@ -150,7 +150,11 @@ h1 {
     }
 
     .footer {
-        position: relative;
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        text-align: center;
     }
 }
 
