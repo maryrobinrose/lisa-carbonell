@@ -121,12 +121,11 @@ h1 {
  }
  
 
-/* For small screens */
 @media screen and (max-width: 768px) {
     .main-title {
         margin-top: 200px;
         margin-left: 50px;
-        margin-bottom: 300px;
+        margin-bottom: 400px;
     }
 
     h1 {
@@ -139,12 +138,12 @@ h1 {
 
     .info {
         width: 100%;
-        margin: 0 10px;
+        margin-bottom: 400px;
     }
 
     .consultation {
         width: 100%;
-        margin: 0 10px;
+        margin-bottom: 100px;
     }
 
     .container {
@@ -156,7 +155,7 @@ h1 {
     }
 }
 
-/* For medium screens */
+
 @media screen and (min-width: 769px) and (max-width: 1024px) {
     .main-title {
         margin-top: 250px;
