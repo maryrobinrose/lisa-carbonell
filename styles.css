@@ -124,7 +124,6 @@ h1 {
 @media screen and (max-width: 768px) {
     .main-title {
         margin-top: 200px;
-        margin-left: 50px;
         margin-bottom: 400px;
     }
 
@@ -133,7 +132,7 @@ h1 {
     }
 
     .established {
-        padding-left: 50px;
+        padding-left: 0;
     }
 
     .info {
