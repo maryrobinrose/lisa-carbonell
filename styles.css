@@ -27,9 +27,10 @@ body {
 }
 
 h1 {
-    font-size: 72px !important;
+    font-size: 68px !important;
     text-transform: uppercase;
     font-family: 'Cinzel' !important;
+    font-weight: 200;
 }
 
 .established {
