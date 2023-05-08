@@ -162,6 +162,7 @@ h1 {
     .info {
         width: 75%;
         padding-left: 0 !important;
+        margin-left: 0 !important;
         margin-bottom: 500px;
     }
 
@@ -169,6 +170,7 @@ h1 {
         width: 75%;
         margin-bottom: 100px;
         padding-left: 0 !important;
+        margin-left: 0 !important;
     }
 
     .footer {
