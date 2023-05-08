@@ -161,6 +161,7 @@ h1 {
 
     .container {
         width: 75%;
+        overflow-x: hidden;
     }
 
     .footer {
