@@ -133,7 +133,7 @@ h1 {
 
     h1 {
         font-size: 54px !important;
-        text-align: center;
+        text-align: center !important;
     }
 
     .established {
