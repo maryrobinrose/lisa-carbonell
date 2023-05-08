@@ -175,26 +175,51 @@ h1 {
 
 @media screen and (min-width: 769px) and (max-width: 1024px) {
     .main-title {
-        margin-top: 250px;
-        margin-left: 75px;
-        margin-bottom: 400px;
+        margin-top: 300px;
+        margin-bottom: 500px;
     }
 
+    .offset-md-4 {
+        margin-left: 0 !important;
+      }
+
     h1 {
-        font-size: 58px !important;
+        font-size: 62px !important;
+        display: flex;
+        justify-content: center; 
+        align-items: center;
+        text-align: center; 
     }
 
     .established {
-        padding-left: 100px;
+        padding-left: 10px;
+        display: flex;
+        justify-content: center; 
+        align-items: center;
+        text-align: center; 
     }
 
     .info {
-        width: 90%;
-        margin: 0 20px;
+        width: 75%;
+        padding-left: 0 !important;
+        margin-bottom: 500px;
     }
 
     .consultation {
-        width: 90%;
-        margin: 0;
+        width: 75%;
+        margin-bottom: 100px;
+        padding-left: 0 !important;
+    }
+
+    .container {
+        width: 75%;
+    }
+
+    .footer {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        text-align: center;
     }
 }
