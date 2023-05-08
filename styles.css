@@ -124,7 +124,6 @@ h1 {
 @media screen and (max-width: 768px) {
     .main-title {
         margin-top: 300px;
-        margin-left: 0;
         margin-bottom: 500px;
     }
 
