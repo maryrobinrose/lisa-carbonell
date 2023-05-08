@@ -200,20 +200,20 @@ h1 {
     }
 
     .info {
-        width: 90%;
+        /* width: 90%; */
         padding-left: 0 !important;
         margin-bottom: 500px;
     }
 
     .consultation {
-        width: 90%;
+        /* width: 90%; */
         margin-bottom: 100px;
         padding-left: 0 !important;
     }
 
-    .container {
+    /* .container {
         width: 90%;
-    }
+    } */
 
     .footer {
         position: fixed;
