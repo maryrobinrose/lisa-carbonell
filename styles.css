@@ -121,7 +121,7 @@ h1 {
  }
  
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 768px) {
     .main-title {
         margin-top: 300px;
         margin-bottom: 500px;
@@ -133,7 +133,10 @@ h1 {
 
     h1 {
         font-size: 54px !important;
-        text-align: center !important;
+        display: flex;
+        justify-content: center; 
+        align-items: center;
+        text-align: center; 
     }
 
     .established {
