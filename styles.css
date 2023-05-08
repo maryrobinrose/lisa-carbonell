@@ -132,7 +132,8 @@ h1 {
     .main-title {
         margin-top: 300px;
         margin-bottom: 500px;
-        margin-left: 0 !important;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .offset-md-4 {
