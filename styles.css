@@ -122,6 +122,13 @@ h1 {
  
 
 @media screen and (max-width: 768px) {
+
+    .container {
+        width: 75%;
+        margin-right: 0 !important;
+        overflow-x: hidden;
+    }
+
     .main-title {
         margin-top: 300px;
         margin-bottom: 500px;
@@ -161,11 +168,6 @@ h1 {
         width: 75%;
         margin-bottom: 100px;
         padding-left: 0 !important;
-    }
-
-    .container {
-        width: 75%;
-        overflow-x: hidden;
     }
 
     .footer {
