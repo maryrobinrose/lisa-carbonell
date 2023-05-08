@@ -132,7 +132,8 @@ h1 {
       }
 
     h1 {
-        font-size: 64px !important;
+        font-size: 54px !important;
+        text-align: center;
     }
 
     .established {
