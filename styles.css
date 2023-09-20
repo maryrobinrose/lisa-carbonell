@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 'Oswald';
-    src: url(fonts/Oswald/Oswald-VariableFont_wght.ttf);
+    font-family: 'Crimson Pro';
+    src: url(fonts/Crimson_Pro/CrimsonPro-Italic-VariableFont_wght.ttf);
 }
 
 @font-face {
-    font-family: 'Crimsen Pro';
-    src: url(fonts/Cinzel/Cinzel-VariableFont_wght.ttf);
+    font-family: 'Livvic';
+    src: url(fonts/Livvic/Livvic-Regular.ttf);
 }
 
 body {
@@ -17,7 +17,7 @@ body {
     color: black !important;
     overflow: overlay;
     font-size: 24px;
-    font-family: 'Oswald';
+    font-family: 'Livvic';
 }
 
 .main-title {
@@ -29,7 +29,7 @@ body {
 h1 {
     font-size: 68px !important;
     text-transform: uppercase;
-    font-family: 'Crimsen Pro' !important;
+    font-family: 'Crimson Pro' !important;
     font-weight: 200;
 }
 
@@ -41,7 +41,7 @@ h1 {
 }
 
 .logo {
-    width: 100px;
+    width: 50px;
 }
 
 .info {
@@ -99,7 +99,7 @@ h1 {
 }
 
 .footer-link {
-    color: #F7F4EB !important;
+    color: black !important;
     font-size: 10px;
 }
 

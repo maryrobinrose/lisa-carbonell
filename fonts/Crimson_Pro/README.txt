@@ -1,23 +1,34 @@
-Cinzel Variable Font
-====================
+Crimson Pro Variable Font
+=========================
 
-This download contains Cinzel as both a variable font and static fonts.
+This download contains Crimson Pro as both variable fonts and static fonts.
 
-Cinzel is a variable font with this axis:
+Crimson Pro is a variable font with this axis:
   wght
 
-This means all the styles are contained in a single file:
-  Cinzel-VariableFont_wght.ttf
+This means all the styles are contained in these files:
+  CrimsonPro-VariableFont_wght.ttf
+  CrimsonPro-Italic-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Cinzel:
-  static/Cinzel-Regular.ttf
-  static/Cinzel-Medium.ttf
-  static/Cinzel-SemiBold.ttf
-  static/Cinzel-Bold.ttf
-  static/Cinzel-ExtraBold.ttf
-  static/Cinzel-Black.ttf
+in those cases you can use the static font files for Crimson Pro:
+  static/CrimsonPro-ExtraLight.ttf
+  static/CrimsonPro-Light.ttf
+  static/CrimsonPro-Regular.ttf
+  static/CrimsonPro-Medium.ttf
+  static/CrimsonPro-SemiBold.ttf
+  static/CrimsonPro-Bold.ttf
+  static/CrimsonPro-ExtraBold.ttf
+  static/CrimsonPro-Black.ttf
+  static/CrimsonPro-ExtraLightItalic.ttf
+  static/CrimsonPro-LightItalic.ttf
+  static/CrimsonPro-Italic.ttf
+  static/CrimsonPro-MediumItalic.ttf
+  static/CrimsonPro-SemiBoldItalic.ttf
+  static/CrimsonPro-BoldItalic.ttf
+  static/CrimsonPro-ExtraBoldItalic.ttf
+  static/CrimsonPro-BlackItalic.ttf
 
 Get started
 -----------
