@@ -14,7 +14,7 @@ body {
     background-attachment: fixed;
     background-size: cover;
     background-color: #1F2123;
-    color: #F7F4EB !important;
+    color: black !important;
     overflow: overlay;
     font-size: 24px;
     font-family: 'Oswald';
@@ -86,7 +86,7 @@ h1 {
 }
 
 .email-link {
-    color: #F7F4EB !important;
+    color: black !important;
     margin-bottom: -10px !important;
 }
 
