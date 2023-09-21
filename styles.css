@@ -8,6 +8,11 @@
     src: url(fonts/Livvic/Livvic-Regular.ttf);
 }
 
+@font-face {
+    font-family: 'Livvic Bold';
+    src: url(fonts/Livvic/Livvic-Bold.ttf);
+}
+
 body {
     background-image: url("images/leaves.jpg");
     background-repeat: no-repeat;
@@ -70,6 +75,10 @@ h1 {
 
 .light {
     font-weight: 200;
+}
+
+.bold {
+    font-family: 'Livvic Bold';
 }
 
 .container {
